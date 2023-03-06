@@ -1,6 +1,6 @@
 #SOEN-6461 (iGO Ticket Vending Machine)
 
-# Dpcumentation: https://drive.google.com/drive/u/0/folders/1BXd-U2D8uXPDsySCrRhFGdZtlvfF-HW7
+
 
 ## Contributors:
 
@@ -15,6 +15,8 @@ Garvit Kataria
 Pravalike Kosin Jorger
 
 Felipe Kosin Jorge
+
+## Documentation: https://drive.google.com/drive/u/0/folders/1BXd-U2D8uXPDsySCrRhFGdZtlvfF-HW7
 
 # Roles & Responsibilities:
 
