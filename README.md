@@ -92,50 +92,50 @@ Felipe Kosin Jorge
          <tr>
             <td>Mukul Kumar</td>
             <td>Task 1 : Back end Developer </td>
-            <td>Task  2:  Documenting Assumptions</td>
-            <td>Task 3: generating UML diagrams for the model</td>
-            <td>Task 4: generating Use Cases for Model</td>
+            <td>Task  2:  Create CRC Model</td>
+            <td>Task 3: Create Sequence Diagram</td>
+            <td>Task 4: Create Structure Diagram Model</td>
             <td>Task 5: Maintaing version control Github</td>
          </tr>
          <tr>
             <td>Darshakkumar Kachchhi</td>
-            <td>Task 1 : Writing Brief Description about the Project</td>
+            <td>Task 1 : Maintaining Version control and github</td>
             <td>Task 2: Front End Developer.</td>
-            <td>Task 3: Defining classes and their relationships</td>
-            <td>Task 4: Preparing Interview Questions and Mind Mapping</td>
-            <td>Task 5: Documenting Assumptions</td>
+            <td>Task 3: Create Structural design Model</td>
+            <td>Task 4: Create Sequence Diagram</td>
+            <td>Task 5: Create CRC Model</td>
          </tr>
          <tr>
             <td>Abhishek Kanuganti</td>
-            <td>Task 1 : Constructing UML diagramss</td>
-            <td>Task 2: Back End Developer</td>
-            <td>Task 3: Preparing Interview Questions and Mind Mapping</td>
-            <td>Task 4: generating use cases</td>
-            <td>Task 5: generating UMl Activity Diagram</td>
+            <td>Task 1 : Create Sequence Diagram</td>
+            <td>Task 2: Back End Developer Exception</td>
+            <td>Task 3: Create CRC Model</td>
+            <td>Task 4: Testing the code functionality</td>
+            <td>Task 5: Create behaviourak design Model</td>
          </tr>
          <tr>
             <td>Garvit Kataria</td>
-            <td>Task 1: Develop Models for Characterisation</td>
+            <td>Task 1: Create CRC Model</td>
             <td>Task 2: Generating the domain models</td>
-            <td>Task 3: Preparing Interview Questions and Mind Mapping</td>
-            <td>Task 4: Constructing Mind Maps and Documenting the intervies</td>
+            <td>Task 3: Testing the code</td>
+            <td>Task 4: Create Behavioual design Model</td>
             <td>Task 5: Documenting Minutes of Meetings</td>
          </tr>
          <tr>
             <td>Pravalike Kosin Jorger</td>
-            <td>Task 1: Writing Latex reports in overleaf</td>
+            <td>Task 1: Tester</td>
             <td>Task 2: Mainting Notes and UML Diagram</td>
-            <td>Task 3: Constructing Mind Maps and Documenting the intervies</td>
-            <td>Task 4: Constructing a UML activity diagram</td>
-            <td>Task 5: Writing Descriptions and Introductions</td>
+            <td>Task 3: Create Structural design Model</td>
+            <td>Task 4: Create CRC Diagram</td>
+            <td>Task 5: </td>
          </tr>
          <tr>
             <td>Felipe Kosin Jorge</td>
-            <td>Task 1 : Documenting Latex</td>
-            <td>Task 2: Defining Class Relations and genrating UML Diagram</td>
-            <td>Task 3: Document the interviews and Develop Mind Maps</td>
-            <td>Task 4: Constructing UML and Use Case Diagrams</td>
-            <td>Task 5: Maintaining Github Repo Structure</td>
+            <td>Task 1 : Front End Development</td>
+            <td>Task 2: Documentation</td>
+            <td>Task 3: Documenting Minute of Meeting</td>
+            <td>Task 4: Construct behavioral design model</td>
+            <td>Task 5: Create CRC Diagram</td>
          </tr>
       </tbody>
    </table>
