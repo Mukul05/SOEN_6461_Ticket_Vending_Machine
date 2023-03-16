@@ -127,7 +127,7 @@ Felipe Kosin Jorge
             <td>Task 2: Mainting Notes and UML Diagram</td>
             <td>Task 3: Create Structural design Model</td>
             <td>Task 4: Create CRC Diagram</td>
-            <td>Task 5: </td>
+            <td>Task 5: Prepare Latex Report in Overleaf</td>
          </tr>
          <tr>
             <td>Felipe Kosin Jorge</td>
